@@ -1,0 +1,9 @@
+{
+  "name": "Training Companion V2",
+  "short_name": "TrainComp",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07101d",
+  "theme_color": "#07101d"
+}
